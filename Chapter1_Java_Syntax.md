@@ -1,5 +1,5 @@
 ## Basic Java Syntax ##
-1. Modifer
+### Modifer
 	1. Access Modifier 
 		* private
 		* protected 
@@ -9,7 +9,7 @@
 		* final 
 		* static
 		* abstract 
-2. Basic Datatypes
+### Basic Datatypes
 	1. Primitive Data Types
         * Byte
         * Short
@@ -22,19 +22,20 @@
     2. Reference Data Types
     	* Objects
     	* Arrays
-3. Java Operators 
-4. Decision Making 
+### Java Operators 
+
+### Decision Making 
 	* If
 	* else if  
 	* else
-5. Loop
+### Loop
 	* for loop
 	* while & do while 
 	* break & continue 
 	* switch 
-6. Method/Function 
+### Method/Function 
 	* How recursion works 
-7. Variables
+### Variables
 	* Local Variables 
 	* Instance Variables 
 	* Static/Class Variables 
